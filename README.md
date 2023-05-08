@@ -13,4 +13,4 @@ To help users explore the data, we created a Gradio interface that displays vari
 
 Here's what the interface looks like in action:
 
-![Gradio Interface](gradio_interface.gif)
+![Gradio Interface](EDA.gif)
